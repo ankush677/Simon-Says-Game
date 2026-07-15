@@ -26,10 +26,4 @@ A fun and interactive Simon Says memory game built using **HTML, CSS, and JavaSc
 4. The sequence grows longer after every correct round.
 5. Game ends when you click the wrong button.
 
-## 📷 Preview
-
-(Add a screenshot here)
-
----
-
 Made with ❤️ by Ankush Sharma
