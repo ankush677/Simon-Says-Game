@@ -20,6 +20,14 @@ document.addEventListener("keypress",function(){
     levelup();
 });
 
+document.addEventListener("click",function(){
+    if(started == false){
+        console.log("Game Started");
+        started = true;
+    }
+    levelup();
+});
+
 function gameflash(btn){
     btn.classList.add('flash');
     setTimeout(function(){
