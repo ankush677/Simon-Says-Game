@@ -26,7 +26,7 @@ body{
     grid-template-columns: repeat(2,200px);
     row-gap: 40px;
     column-gap: 40px;
-   
+    
 }
 
 
@@ -119,3 +119,16 @@ transform:translateX(10px);
 animation:shake .3s;
 }
 
+@media (max-width: 600px) {
+    .box {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (max-width: 600px) {
+    .b1 {
+        width: 150px;
+        height: 150px;
+    }
+}
