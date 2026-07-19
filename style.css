@@ -126,9 +126,3 @@ animation:shake .3s;
     }
 }
 
-@media (max-width: 600px) {
-    .b1 {
-        width: 150px;
-        height: 150px;
-    }
-}
